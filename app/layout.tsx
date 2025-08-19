@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'TaskFlow',
+  title: 'TaskFlow – Project Management',
   description: 'Project management for modern teams',
 }
 
